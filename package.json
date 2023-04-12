@@ -1,0 +1,38 @@
+{
+  "name": "tryiton_fe_test",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@headlessui/react": "^1.7.13",
+    "@heroicons/react": "^2.0.17",
+    "@tailwindcss/forms": "^0.5.3",
+    "@types/node": "18.15.11",
+    "@types/react": "18.0.34",
+    "@types/react-dom": "18.0.11",
+    "autoprefixer": "10.4.14",
+    "canvas": "^2.11.2",
+    "eslint": "8.38.0",
+    "eslint-config-next": "13.3.0",
+    "konva": "^8.4.3",
+    "next": "13.3.0",
+    "postcss": "8.4.21",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-konva": "^18.2.5",
+    "react-toastify": "^9.1.2",
+    "tailwindcss": "3.3.1",
+    "typescript": "5.0.4",
+    "use-image": "^1.1.0",
+    "zustand": "^4.3.7"
+  },
+  "devDependencies": {
+    "prettier": "^2.8.7",
+    "prettier-plugin-tailwindcss": "^0.2.7"
+  }
+}
